@@ -32,7 +32,7 @@ O programa possibilita:
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/lariiscriis/atividade_Colecoes_DWIII
    ```
 2. Acesse a pasta do projeto:
    ```sh
